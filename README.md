@@ -1,6 +1,8 @@
 # stock-market-predictor-app
 Simple stock market predictor to predict the following n days close for the S&amp;P500.
 
+Data was pulled from [link](https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm/data?select=all_stocks_5yr.csv)
+
 ## EDA
 Data was extracted and checked for various features including;
 - Stationarity/Seasonality
